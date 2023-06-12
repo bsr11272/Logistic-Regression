@@ -6,12 +6,9 @@ This repository contains an implementation of Logistic Regression from scratch u
 
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [Dataset](#dataset)
 - [Implementation Details](#implementation-details)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
